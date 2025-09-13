@@ -1,9 +1,5 @@
 ### Hey there! Welcome to my profile. 👋
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/AmywSTa7FKMAAAAd/hiii-cat.gif" width="336">
-</p>
-
 I'm a Computer Science student who's passionate about building things for the web and beyond. I believe the best results come from a blend of solid engineering and creative collaboration. My journey is all about turning great ideas into practical, full-stack applications, and I thrive on challenges that push me to learn and grow.
 
 ---
@@ -18,12 +14,12 @@ I'm a Computer Science student who's passionate about building things for the we
 
 ### 💻 My Tech Toolbox
 
-| Category | Technologies |
-| :--- | :--- |
-| 🚀 **Languages** | `Python` `JavaScript` `Java` `C++` |
-| 🌐 **Web Dev** | `HTML5` `CSS3` `Next.js` `Django` |
-| 🤖 **AI / ML** | `TensorFlow` `Scikit-learn` |
-| 🎨 **Design & Data** | `Figma` `Tableau` |
+| Category          | Technologies                                     |
+| :---------------- | :----------------------------------------------- |
+| 🚀 **Languages** | `Python` `JavaScript` `Java` `C++`               |
+| 🌐 **Web Dev** | `HTML5` `CSS3` `Next.js` `Django`                |
+| 🤖 **AI / ML** | `TensorFlow` `Scikit-learn`                      |
+| 🎨 **Design & Data** | `Figma` `Tableau`                                |
 
 ---
 
@@ -40,3 +36,9 @@ When I'm not in front of a screen, you might find me:
 ### 📫 Let's Connect!
 
 I'm always open to collaborating on interesting projects or just chatting about technology. Don't hesitate to reach out!
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/AmywSTa7FKMAAAAd/hiii-cat.gif" width="336">
+</p>
