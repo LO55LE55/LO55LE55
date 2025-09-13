@@ -1,7 +1,7 @@
 ### Hey there! Welcome to my profile. 👋
 
 <p align="center">
-  <img src="https://tenor.com/view/hiii-cat-wave-cat-wave-hi-gif-174708314057938083" width="336">
+  <img src="https://media1.tenor.com/m/AmywSTa7FKMAAAAd/hiii-cat.gif" width="336">
 </p>
 
 I'm a Computer Science student who's passionate about building things for the web and beyond. I believe the best results come from a blend of solid engineering and creative collaboration. My journey is all about turning great ideas into practical, full-stack applications, and I thrive on challenges that push me to learn and grow.
