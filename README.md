@@ -18,7 +18,7 @@ I'm a Computer Science student who's passionate about building things for the we
 | :---------------- | :----------------------------------------------- |
 | 🚀 **Languages** | `Python` `JavaScript` `Java` `C++`               |
 | 🌐 **Web Dev** | `HTML5` `CSS3` `Next.js` `Django`                |
-| 🤖 **AI / ML** | `TensorFlow` `Scikit-learn`                      |
+| 🤖 **AI / ML** | `TensorFlow` `Scikit-learn` `Keras`                      |
 | 🎨 **Design & Data** | `Figma` `Tableau`                                |
 
 ---
