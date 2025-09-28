@@ -4,7 +4,7 @@ I'm a Computer Science student who's passionate about building things for the we
 
 ---
 
-### 🌱 I'm Currently Focusing On:
+### I'm Currently Focusing On:
 
 * **Generative AI:** Diving deep into prompt engineering and leveraging models like IBM Granite to optimize code and process data.
 * **Full-Stack Development:** Honing my skills in both front-end and back-end technologies to build seamless user experiences.
@@ -12,7 +12,7 @@ I'm a Computer Science student who's passionate about building things for the we
 
 ---
 
-### 💻 My Tech Toolbox
+### My Tech Toolbox
 
 | Category          | Technologies                                     |
 | :---------------- | :----------------------------------------------- |
@@ -23,7 +23,7 @@ I'm a Computer Science student who's passionate about building things for the we
 
 ---
 
-### ✨ Beyond the Code
+### Beyond the Code
 
 When I'm not in front of a screen, you might find me:
 
