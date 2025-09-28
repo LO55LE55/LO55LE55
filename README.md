@@ -6,9 +6,9 @@ I'm a Computer Science student who's passionate about building things for the we
 
 ### I'm Currently Focusing On:
 
-* **Generative AI:** Diving deep into prompt engineering and leveraging models like IBM Granite to optimize code and process data.
-* **Full-Stack Development:** Honing my skills in both front-end and back-end technologies to build seamless user experiences.
-* **Competitive Programming:** Sharpening my problem-solving skills and algorithmic thinking.
+* **Artificial Intelligence:** Experimenting with building and training models, optimizing pipelines, and applying AI to solve practical problems.
+* **Full-Stack Development:** Leveling up both front-end and back-end skills to build functional and polished applications.
+* **Algorithms & Theory:** Exploring data structures, algorithms, and the core principles that power computer science.
 
 ---
 
